@@ -9,7 +9,7 @@ lastmod: 2025-01-01
 summary: "A guided tour to the beautiful Arado waterfall, one of the most spectacular waterfalls in Peneda Gerês National Park."
 
 # Page metadata
-authors: []
+authors: ["Ana Carvalho"]
 tags: ["nature", "waterfall", "tours", "cascata"]
 categories: ["guided-tours"]
 
